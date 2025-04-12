@@ -1,0 +1,15 @@
+/Users/sainani/Projects/Dice_Game/Dice_Game/bin/Debug/net7.0/Dice_Game
+/Users/sainani/Projects/Dice_Game/Dice_Game/bin/Debug/net7.0/Dice_Game.deps.json
+/Users/sainani/Projects/Dice_Game/Dice_Game/bin/Debug/net7.0/Dice_Game.runtimeconfig.json
+/Users/sainani/Projects/Dice_Game/Dice_Game/bin/Debug/net7.0/Dice_Game.dll
+/Users/sainani/Projects/Dice_Game/Dice_Game/bin/Debug/net7.0/Dice_Game.pdb
+/Users/sainani/Projects/Dice_Game/Dice_Game/obj/Debug/net7.0/Dice_Game.csproj.AssemblyReference.cache
+/Users/sainani/Projects/Dice_Game/Dice_Game/obj/Debug/net7.0/Dice_Game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sainani/Projects/Dice_Game/Dice_Game/obj/Debug/net7.0/Dice_Game.AssemblyInfoInputs.cache
+/Users/sainani/Projects/Dice_Game/Dice_Game/obj/Debug/net7.0/Dice_Game.AssemblyInfo.cs
+/Users/sainani/Projects/Dice_Game/Dice_Game/obj/Debug/net7.0/Dice_Game.csproj.CoreCompileInputs.cache
+/Users/sainani/Projects/Dice_Game/Dice_Game/obj/Debug/net7.0/Dice_Game.dll
+/Users/sainani/Projects/Dice_Game/Dice_Game/obj/Debug/net7.0/refint/Dice_Game.dll
+/Users/sainani/Projects/Dice_Game/Dice_Game/obj/Debug/net7.0/Dice_Game.pdb
+/Users/sainani/Projects/Dice_Game/Dice_Game/obj/Debug/net7.0/Dice_Game.genruntimeconfig.cache
+/Users/sainani/Projects/Dice_Game/Dice_Game/obj/Debug/net7.0/ref/Dice_Game.dll

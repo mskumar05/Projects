@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sainani/Projects/Dice_Game/Dice_Game/Dice_Game.csproj": {}
+  },
+  "projects": {
+    "/Users/sainani/Projects/Dice_Game/Dice_Game/Dice_Game.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sainani/Projects/Dice_Game/Dice_Game/Dice_Game.csproj",
+        "projectName": "Dice_Game",
+        "projectPath": "/Users/sainani/Projects/Dice_Game/Dice_Game/Dice_Game.csproj",
+        "packagesPath": "/Users/sainani/.nuget/packages/",
+        "outputPath": "/Users/sainani/Projects/Dice_Game/Dice_Game/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sainani/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.317/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
